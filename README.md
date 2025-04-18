@@ -1,29 +1,33 @@
+# LeetCode Solutions
+
+## Why I Started Practicing DSA
+
+I started practicing Data Structures and Algorithms to strengthen my core programming skills. Coming from a non-CS background, I realized how important DSA is—not just for coding interviews, but also for areas I’m actively exploring, like:
+
 <details>
-  <summary><strong>How DSA Helps in My Learning Journey</strong></summary>
+  <summary><strong>Fields where DSA helps me:</strong></summary>
 
   <br/>
 
-  - <strong>Backend Development:</strong>  
-    DSA improves how I structure logic, handle large datasets, and build scalable, efficient systems (e.g., queues, caching, load balancing, etc.).
+  - **Backend Development**  
+    Helps structure logic, optimize performance, and build scalable systems.
 
-  <br/>
+  - **Artificial Intelligence (AI)**  
+    Supports efficient model design and algorithmic thinking.
 
-  - <strong>Artificial Intelligence & Machine Learning:</strong>  
-    Algorithms and data structures are foundational for implementing model logic, managing data flow, and optimizing training performance (e.g., trees in decision trees, heaps in priority queues, graphs in neural nets).
+  - **Machine Learning**  
+    Improves data handling, model optimization, and pipeline design.
 
-  <br/>
+  - **IoT Systems**  
+    Helps manage real-time data, memory constraints, and device communication.
 
-  - <strong>Data Analytics:</strong>  
-    Efficient data processing and manipulation often relies on core DSA concepts like hash maps, sorting, and searching algorithms.
-
-  <br/>
-
-  - <strong>IoT Systems:</strong>  
-    Many IoT applications require optimized memory and real-time data handling—DSA helps manage sensor data, queues, and system logic efficiently.
-
-  <br/>
-
-  - <strong>OpenCV & Computer Vision:</strong>  
-    Image processing benefits from graph traversal, matrix manipulation, and optimized data handling—all rooted in DSA.
+  - **OpenCV and Computer Vision**  
+    Useful for image matrix operations, graph-based analysis, and performance tuning.
 
 </details>
+
+A good grasp of DSA helps me write efficient and structured code, which is essential when working with data-heavy applications, model pipelines, and system-level logic.
+
+## About This Repo
+
+This repository contains my personal LeetCode solutions, written in **Python** and **C++**. I'm gradually organizing them by topic and difficulty to keep track of my learning and progress over time.
