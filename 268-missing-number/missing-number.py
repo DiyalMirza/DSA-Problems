@@ -2,9 +2,14 @@ class Solution:
     def missingNumber(self, nums: List[int]) -> int:
 
         n = len(nums)
+        xor=0
 
-        expected = n*(n+1)//2
-        actual = sum(nums)
+        for i in range(n+1):
+            xor^=i
 
-        return expected - actual
+        for num in nums:
+            xor^=num
+
+        
+        return xor
         
