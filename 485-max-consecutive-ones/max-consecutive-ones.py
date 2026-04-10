@@ -8,8 +8,7 @@ class Solution:
             if num == 1:
                 count +=1
                 result = max(result, count)
-
-            if num != 1:
+            else:
                 count = 0
 
         return result
